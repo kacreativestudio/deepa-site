@@ -1,0 +1,33 @@
+[21-Mar-2019 07:05:20 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[21-Mar-2019 07:18:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bsquareedu/public_html/demo/wp-includes/class-wp-hook.php on line 77
+[06-May-2019 14:04:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bsquareedu/public_html/demo/wp-content/themes/uncode/core/inc/main.php on line 172
+[06-May-2019 14:04:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bsquareedu/public_html/demo/wp-content/themes/uncode/core/inc/main.php on line 172
+[06-May-2019 14:06:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bsquareedu/public_html/demo/wp-content/themes/uncode/core/inc/main.php on line 172
+[06-May-2019 14:06:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bsquareedu/public_html/demo/wp-content/themes/uncode/core/inc/main.php on line 172
+[05-Jul-2019 08:31:26 UTC] PHP Warning:  imagepng(/home/bsquareedu/public_html/wp-content/uploads/2014/12/gd1-uai-1032x688.png): failed to open stream: Disk quota exceeded in /home/bsquareedu/public_html/wp-includes/class-wp-image-editor.php on line 402
+[11-Sep-2019 14:38:44 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[11-Sep-2019 14:38:44 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[13-Sep-2019 03:09:29 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[13-Sep-2019 03:09:29 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[13-Sep-2019 15:04:41 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[13-Sep-2019 15:04:41 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[13-Sep-2019 15:07:00 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[13-Sep-2019 15:07:00 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[13-Sep-2019 22:31:28 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[13-Sep-2019 22:31:28 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[15-Sep-2019 21:18:47 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[15-Sep-2019 21:18:47 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[15-Sep-2019 21:39:29 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[15-Sep-2019 21:39:29 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[17-Sep-2019 01:21:54 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[17-Sep-2019 01:21:54 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[18-Sep-2019 17:12:41 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[18-Sep-2019 17:12:41 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[18-Sep-2019 17:16:55 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquar[14-Jan-2020 09:25:41 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[14-Jan-2020 09:25:41 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[14-Jan-2020 12:47:08 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[14-Jan-2020 12:47:08 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[14-Jan-2020 17:53:54 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[14-Jan-2020 17:53:54 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
+[14-Jan-2020 18:32:02 UTC] PHP Warning:  A non-numeric value encountered in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 234
+[14-Jan-2020 18:32:02 UTC] PHP Warning:  Division by zero in /home/bsquareedu/public_html/wp-content/themes/uncode/core/inc/helpers.php on line 235
